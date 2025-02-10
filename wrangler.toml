@@ -22,6 +22,7 @@ routes = [
   { pattern = "k8s-gcr.rda.run", custom_domain = true },
   { pattern = "k8s.rda.run", custom_domain = true },
   { pattern = "ghcr.rda.run", custom_domain = true },
+  { pattern = "cr.rda.run", custom_domain = true },
   { pattern = "cloudsmith.rda.run", custom_domain = true },
 ]
 
